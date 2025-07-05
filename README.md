@@ -1,7 +1,7 @@
 
 AI Resume and Cover Letter Generator using Gemini 1.5 Flash
 
-This project is a web-based application that generates professional resumes and cover letters using Google's Gemini 1.5 Flash model. It was developed as part of the IBM Generative AI with Watsonx course to demonstrate the application of generative AI in real-world scenarios such as job application automation.
+This project is a web-based application that generates professional resumes and cover letters using Google's Gemini 1.5 Flash model. It was developed  to demonstrate the application of generative AI in real-world scenarios such as job application automation.
 
 Features
 
